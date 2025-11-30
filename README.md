@@ -31,10 +31,10 @@ npm start
 It runs on:  http://localhost:3000 
 
 ## Deployement:
-
+https://moviee-6krg.onrender.com
 
 ## GitHub repository link:
-
+ https://github.com/SarihaSaleem/moviee.git
 
 ## Submission Screenshot required
 POST request
